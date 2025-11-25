@@ -21,7 +21,7 @@ You are responsible for all content you upload, store, or transmit through the S
 
 Splito may offer optional paid features through auto-renewable subscriptions.
 
-- Payment will be charged to your Apple ID account upon confirmation of purchase.
+- Payment will be charged to your account upon confirmation of purchase.
 
 - Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing period.
 
